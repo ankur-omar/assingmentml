@@ -1,0 +1,6 @@
+name = input("What is your name?")
+print(type(name), name)
+age = int( input("What is your age? ") )
+print( type(age), age )
+s1 = input()
+print( "value of s1 =",s1)
